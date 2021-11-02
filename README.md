@@ -4,7 +4,8 @@ I am a Backend Developer and I love learning and building new stuffs.
 To be able to create more exciting software 🔭 I am adding Devops and Frontend development skills to my repertoire.
 🌱 So I’m currently in the process of learning React, Docker and AWS.
 
-When I'm not coding I spend my time with my family watch movie, eat good food or go to the park with my kids.
+When I'm not coding I spend my time with my family. 
+I love to watch movies, eat good food or go to the park with my wife and our kids.
 
 Connect with me:
 [![](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rommel-dizon-medina/)
