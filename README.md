@@ -1,14 +1,14 @@
 ### Hi there, I'm Rommel 👋
 
-I am a Backend Developer ![icons8-backend-development-16](https://user-images.githubusercontent.com/25921121/140559404-29bd7610-6f47-4910-81fc-4ec84908baa2.png) and I love learning and building new stuffs ![icons8-learning-material-16](https://user-images.githubusercontent.com/25921121/140560276-a9843460-5b82-4362-bb96-d09cde2d0c91.png).
+:man_technologist: I am a Backend Developer and I love learning and building new stuffs ![icons8-learning-material-16](https://user-images.githubusercontent.com/25921121/140560276-a9843460-5b82-4362-bb96-d09cde2d0c91.png).
 
 🔭 To be able to create more exciting software I am adding Devops and Frontend development skills to my repertoire.
 
 🌱 So I’m currently in the process of learning React, Docker and AWS.
 
-When I'm not coding I spend my time with my family. 
+:stopwatch: When I'm not coding I enjoy spending my time with my family. 
 
-I love to watch movies, eat good food or go to the park with my wife and our kids ![icons8-treehouse-16](https://user-images.githubusercontent.com/25921121/140560540-a7cad87c-4f6d-4b14-aae5-3df33953cf48.png).
+:movie_camera: I love to watch movies, eat good food :ramen: or go to the park:evergreen_tree: with my wife and the kiddos.
 
 #### ![icons8-connect-16](https://user-images.githubusercontent.com/25921121/140559201-a7c36943-a0db-4f38-b999-485b86eabbe7.png)Connect with me:
 
