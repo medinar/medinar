@@ -14,6 +14,8 @@
 
 [![](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rommel-dizon-medina/)
 
+[![Website](https://img.shields.io/website?label=rommelmedina.com&style=for-the-badge&url=https%3A%2F%2Frommelmedina.com)](https://www.rommelmedina.com)
+
 #### Skills:
 
 ![icons8-java-32](https://user-images.githubusercontent.com/25921121/140557046-bcce0851-cdf9-4758-8461-8f29f76d1b7c.png) 
