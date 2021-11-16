@@ -1,14 +1,15 @@
 ### Hi there, I'm Rommel 👋
 
-:man_technologist: I am a Backend Developer and I love learning and building new stuffs ![icons8-learning-material-16](https://user-images.githubusercontent.com/25921121/140560276-a9843460-5b82-4362-bb96-d09cde2d0c91.png).
+I'm a Software Developer from the Philippines 🇵🇭  now living in Abbotsford, BC Canada 🇨🇦. 
 
-🔭 To be able to create more exciting software I am adding Devops and Frontend development skills to my repertoire.
+With over ten years of experience building enterprise applications using the Java programming language. 
 
-🌱 So I’m currently in the process of learning React, Docker and AWS.
+Over the past years, I have worked on numerous projects where I got exposure to the various stages of the Software Development Life Cycle, 
+from requirements gathering, coding, testing up to production support.
 
-:stopwatch: When I'm not coding I enjoy spending my time with my family. 
+I'm passionate about technology and solving problems using it.
 
-:movie_camera: I love to watch movies, eat good food :ramen: or go to the park:evergreen_tree: with my wife and the kiddos.
+If you have exciting projects that you want to share or you are an employer looking for someone to help you grow your company and meet business demands,
 
 #### ![icons8-connect-16](https://user-images.githubusercontent.com/25921121/140559201-a7c36943-a0db-4f38-b999-485b86eabbe7.png)Connect with me:
 
