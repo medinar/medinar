@@ -4,7 +4,7 @@ I'm a Software Developer from the Philippines 🇵🇭  now living in BC Canada 
 
 With over ten years of experience building enterprise applications using the Java programming language. 
 
-Over the past years, I have worked on numerous projects where I got exposure to the various stages of the Software Development Life Cycle, 
+Over the past years, I have worked on numerous projects where I got exposure to the various stages of the Software Development, 
 from requirements gathering, coding, testing up to production support.
 
 I'm passionate about technology and solving problems using it.
