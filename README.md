@@ -1,6 +1,6 @@
 ### Hi there, I'm Rommel 👋
 
-I'm a Software Developer based in British Columbia, Canada 🇨🇦. 
+I'm a Software Developer based in Abbotsford, BC, Canada 🇨🇦. 
 
 With over ten years of experience building enterprise applications using the Java programming language. 
 
