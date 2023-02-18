@@ -1,17 +1,15 @@
-### Hi there, I'm Rommel 👋
+Rommel is a highly skilled software developer based in Abbotsford, BC, Canada. 
 
-I'm a Software Developer based in Abbotsford, BC, Canada 🇨🇦. 
+With over ten years of experience building enterprise applications using Java, Rommel has developed a keen sense of problem-solving that has served him well throughout his career. 
 
-With over ten years of experience building enterprise applications using the Java programming language. 
+Rommel is passionate about technology and enjoys working on projects where he can use his skills to their fullest potential. 
+From requirements gathering to coding, testing, and production support, Rommel is well-versed in all stages of software development. 
 
-Over the past years, I have worked on numerous projects where I got exposure to the various stages of the Software Development, 
-from requirements gathering, coding, testing up to production support.
-
-I'm passionate about technology and solving problems using it.
+His dedication to his craft has earned him a reputation as a reliable and trustworthy developer who delivers results.
 
 If you have exciting projects that you want to share or you are an employer looking for someone to help you grow your company and meet business demands,
 
-#### ![icons8-connect-16](https://user-images.githubusercontent.com/25921121/140559201-a7c36943-a0db-4f38-b999-485b86eabbe7.png)Connect with me:
+#### ![icons8-connect-16](https://user-images.githubusercontent.com/25921121/140559201-a7c36943-a0db-4f38-b999-485b86eabbe7.png)Connect with Rommel:
 
 [![](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rommel-dizon-medina/)
 
